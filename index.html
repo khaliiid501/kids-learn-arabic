@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>مرحبًا بك!</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="welcome-container">
+    <h1>🎉 أهلاً بك في عالم المرح والتعلم!</h1>
+
+    <div class="story-section">
+      <img src="assets/images/story-icon.png" alt="قصة" class="story-icon" />
+      <button onclick="playStory()">🎧 استمع إلى القصة</button>
+      <audio id="storyAudio" src="assets/sounds/story1.mp3"></audio>
+    </div>
+
+    <div class="name-section">
+      <label for="childName">✍️ اكتب اسمك:</label>
+      <input type="text" id="childName" placeholder="مثلاً: عمر" oninput="showName()" />
+      <div id="nameDisplay"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
