@@ -1,0 +1,90 @@
+[
+  {
+    "character": "٠",
+    "name": "صِفْر",
+    "pronunciation": "sifr",
+    "examples": "لاَ شَيْء - فَارِغ",
+    "value": 0,
+    "westernDigit": "0"
+  },
+  {
+    "character": "١",
+    "name": "وَاحِد",
+    "pronunciation": "waahid",
+    "examples": "قَلَم وَاحِد - كِتَاب وَاحِد",
+    "value": 1,
+    "westernDigit": "1"
+  },
+  {
+    "character": "٢",
+    "name": "اِثْنَان",
+    "pronunciation": "ithnaan",
+    "examples": "عَيْنَان - يَدَان",
+    "value": 2,
+    "westernDigit": "2"
+  },
+  {
+    "character": "٣",
+    "name": "ثَلاَثَة",
+    "pronunciation": "thalaatha",
+    "examples": "ثَلاَث تُفَّاحَات",
+    "value": 3,
+    "westernDigit": "3"
+  },
+  {
+    "character": "٤",
+    "name": "أَرْبَعَة",
+    "pronunciation": "arba'a",
+    "examples": "أَرْبَع عَجَلاَت",
+    "value": 4,
+    "westernDigit": "4"
+  },
+  {
+    "character": "٥",
+    "name": "خَمْسَة",
+    "pronunciation": "khamsa",
+    "examples": "خَمْس أَصَابِع",
+    "value": 5,
+    "westernDigit": "5"
+  },
+  {
+    "character": "٦",
+    "name": "سِتَّة",
+    "pronunciation": "sitta",
+    "examples": "سِت بَيْضَات",
+    "value": 6,
+    "westernDigit": "6"
+  },
+  {
+    "character": "٧",
+    "name": "سَبْعَة",
+    "pronunciation": "sab'a",
+    "examples": "سَبْعَة أَيَّام",
+    "value": 7,
+    "westernDigit": "7"
+  },
+  {
+    "character": "٨",
+    "name": "ثَمَانِيَة",
+    "pronunciation": "thamaaniya",
+    "examples": "ثَمَانِي أَرْجُل",
+    "value": 8,
+    "westernDigit": "8"
+  },
+  {
+    "character": "٩",
+    "name": "تِسْعَة",
+    "pronunciation": "tis'a",
+    "examples": "تِسْع كُرَات",
+    "value": 9,
+    "westernDigit": "9"
+  },
+  {
+    "character": "١٠",
+    "name": "عَشَرَة",
+    "pronunciation": "ashara",
+    "examples": "عَشْر أَصَابِع",
+    "value": 10,
+    "westernDigit": "10"
+  }
+]

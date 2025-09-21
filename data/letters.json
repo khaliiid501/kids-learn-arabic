@@ -1,0 +1,198 @@
+[
+  {
+    "character": "ا",
+    "name": "أَلِف",
+    "pronunciation": "alif",
+    "examples": "أَسَد - أَرَز - أُم",
+    "position": 1
+  },
+  {
+    "character": "ب",
+    "name": "بَاء",
+    "pronunciation": "baa",
+    "examples": "بَطَة - بَيْت - بَحْر",
+    "position": 2
+  },
+  {
+    "character": "ت",
+    "name": "تَاء",
+    "pronunciation": "taa",
+    "examples": "تُفَّاح - تِمْسَاح - تَاج",
+    "position": 3
+  },
+  {
+    "character": "ث",
+    "name": "ثَاء",
+    "pronunciation": "thaa",
+    "examples": "ثَعْلَب - ثَوْب - ثَلْج",
+    "position": 4
+  },
+  {
+    "character": "ج",
+    "name": "جِيم",
+    "pronunciation": "jeem",
+    "examples": "جَمَل - جَبَل - جُبْن",
+    "position": 5
+  },
+  {
+    "character": "ح",
+    "name": "حَاء",
+    "pronunciation": "haa",
+    "examples": "حِصَان - حُوت - حَلِيب",
+    "position": 6
+  },
+  {
+    "character": "خ",
+    "name": "خَاء",
+    "pronunciation": "khaa",
+    "examples": "خُرُوف - خِيَار - خُبْز",
+    "position": 7
+  },
+  {
+    "character": "د",
+    "name": "دَال",
+    "pronunciation": "daal",
+    "examples": "دَجَاج - دُب - دَرَّاج",
+    "position": 8
+  },
+  {
+    "character": "ذ",
+    "name": "ذَال",
+    "pronunciation": "dhaal",
+    "examples": "ذِئْب - ذُرَة - ذَهَب",
+    "position": 9
+  },
+  {
+    "character": "ر",
+    "name": "رَاء",
+    "pronunciation": "raa",
+    "examples": "رَبِيع - رُمَّان - رِيح",
+    "position": 10
+  },
+  {
+    "character": "ز",
+    "name": "زَاي",
+    "pronunciation": "zaay",
+    "examples": "زَرَافَة - زَيْت - زَهْرَة",
+    "position": 11
+  },
+  {
+    "character": "س",
+    "name": "سِين",
+    "pronunciation": "seen",
+    "examples": "سَمَك - سُلَحْفَاة - سِنْجَاب",
+    "position": 12
+  },
+  {
+    "character": "ش",
+    "name": "شِين",
+    "pronunciation": "sheen",
+    "examples": "شَمْس - شَجَرَة - شُرْطِي",
+    "position": 13
+  },
+  {
+    "character": "ص",
+    "name": "صَاد",
+    "pronunciation": "saad",
+    "examples": "صَقْر - صُورَة - صَابُون",
+    "position": 14
+  },
+  {
+    "character": "ض",
+    "name": "ضَاد",
+    "pronunciation": "daad",
+    "examples": "ضِفْدَع - ضَوْء - ضَبْع",
+    "position": 15
+  },
+  {
+    "character": "ط",
+    "name": "طَاء",
+    "pronunciation": "taa",
+    "examples": "طَائِر - طَبِيب - طَاوِلَة",
+    "position": 16
+  },
+  {
+    "character": "ظ",
+    "name": "ظَاء",
+    "pronunciation": "dhaa",
+    "examples": "ظَرْف - ظُفْر - ظِل",
+    "position": 17
+  },
+  {
+    "character": "ع",
+    "name": "عَيْن",
+    "pronunciation": "ayn",
+    "examples": "عَصْفُور - عِنَب - عَسَل",
+    "position": 18
+  },
+  {
+    "character": "غ",
+    "name": "غَيْن",
+    "pronunciation": "ghayn",
+    "examples": "غُرَاب - غَزَال - غَيْم",
+    "position": 19
+  },
+  {
+    "character": "ف",
+    "name": "فَاء",
+    "pronunciation": "faa",
+    "examples": "فِيل - فَرَاشَة - فُل",
+    "position": 20
+  },
+  {
+    "character": "ق",
+    "name": "قَاف",
+    "pronunciation": "qaaf",
+    "examples": "قِط - قَمَر - قُفْل",
+    "position": 21
+  },
+  {
+    "character": "ك",
+    "name": "كَاف",
+    "pronunciation": "kaaf",
+    "examples": "كَلْب - كِتَاب - كُرَة",
+    "position": 22
+  },
+  {
+    "character": "ل",
+    "name": "لاَم",
+    "pronunciation": "laam",
+    "examples": "لَيْمُون - لُعْبَة - لِبَاس",
+    "position": 23
+  },
+  {
+    "character": "م",
+    "name": "مِيم",
+    "pronunciation": "meem",
+    "examples": "مَاء - مُوز - مِفْتَاح",
+    "position": 24
+  },
+  {
+    "character": "ن",
+    "name": "نُون",
+    "pronunciation": "noon",
+    "examples": "نَحْلَة - نُور - نِمْر",
+    "position": 25
+  },
+  {
+    "character": "ه",
+    "name": "هَاء",
+    "pronunciation": "haa",
+    "examples": "هِلاَل - هُدْهُد - هَدِيَّة",
+    "position": 26
+  },
+  {
+    "character": "و",
+    "name": "وَاو",
+    "pronunciation": "waaw",
+    "examples": "وَرْدَة - وَزَّة - وَجْه",
+    "position": 27
+  },
+  {
+    "character": "ي",
+    "name": "يَاء",
+    "pronunciation": "yaa",
+    "examples": "يَد - يَاسَمِين - يَعْسُوب",
+    "position": 28
+  }
+]
